@@ -1,0 +1,7 @@
+ID;¿Con qué frecuencia compra en la cafetería de la facultad?;¿Compra café?;¿Compra comida?;¿Compra bebidas frías?;¿Compra otros productos?;¿Cómo calificaría la atención? (1 a 5);¿Utiliza efectivo?;¿Utiliza tarjeta?;¿Utiliza transferencia?
+1;Nunca;NA;NA;NA;NA;NA;NA;NA;NA
+2;1 a 3 veces;Sí;No;No;No;1;Sí;No;No
+3;1 a 3 veces;No;Sí;No;Sí;2;No;Sí;No
+4;4 a 8 veces;Sí;Sí;Sí;No;3;No;No;Sí
+5;4 a 8 veces;No;No;Sí;Sí;4;Sí;Sí;No
+6;Más de 8 veces;Sí;Sí;No;Sí;5;No;Sí;Sí
